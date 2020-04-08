@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Gabriel Group</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Gabriel Group</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arvid Sjölander</title>
+      <link>/authors/arvid-sjolander/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/arvid-sjolander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erin E Gabriel</title>
+      <link>/authors/erin-e-gabriel/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/erin-e-gabriel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael C Sachs</title>
+      <link>/authors/michael-c-sachs/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/michael-c-sachs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;h3 id=&#34;my-research-focuses-on-biostatistical-methods-development-and-the-proper-application-of-methods-to-problems-in-the-treatment-and-prevention-of-infectious-diseases&#34;&gt;My research focuses on biostatistical methods development and the proper application of methods to problems in the treatment and prevention of infectious diseases.&lt;/h3&gt;
+&lt;p&gt;I am currently working on methodological research in the areas of surrogate evaluation, particularly in the presence of interference and within outcome-adaptive trials, machine learning for survival outcomes, non-parametric causal bounds, designs and estimation methods for emulated and randomized clinical trials for the evaluation of prediction-based decision rules, and methods that can be used to model of vaccine effectiveness in outbreaking settings. My general statistical areas of interest are in causal inference, randomized trials, finite population methods, and survival analysis. I am primarily interested in methods that are applicable to infectious disease and vaccination, which is where much of my applied research has taken place, but I also do work in other disease areas such as cancer and aging.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

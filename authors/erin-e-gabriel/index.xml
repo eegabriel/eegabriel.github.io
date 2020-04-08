@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erin E Gabriel on Gabriel Group</title>
+    <link>/authors/erin-e-gabriel/</link>
+    <description>Recent content in Erin E Gabriel on Gabriel Group</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/erin-e-gabriel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Symbolic Computation of Tight Causal Bounds</title>
+      <link>/publication/preprint2/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/preprint2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2003.10702&#34;&gt;https://arxiv.org/pdf/2003.10702&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causal bounds for outcome-dependent sampling in observational studies</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/preprint/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2002.10519&#34;&gt;https://arxiv.org/pdf/2002.10519&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
