@@ -11,18 +11,18 @@ event: academia Theme Conference
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: Abid Lashari'
-  focal_point: Right
+  caption: 'Michael C Sachs'
+  focal_point: Center
 links: null
 location: London, United Kingdom
 math: true
 projects: null
-publishDate: "2020-10-15"
+publishDate: "2020-01-15"
 slides: null
-homelink: "https://staff.ki.se/people/abilas"
-summary: Biostatistician and the focus of my work is on advancing statistical methods in causal inference, machine learning and clinical trial design and on applied work in infectious disease.
+homelink: "https://sachsmc.github.io"
+summary: Biostatistician working on the development and evaluation of risk prediction models and biomarkers, assay development and validation, statistical computing, causal inference in observational studies, and tools for reproducible research.
 tags: []
-title: Abid Ali Lashari
+title: Michael C Sachs
 url_code: ""
 url_pdf: ""
 url_slides: ""

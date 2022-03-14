@@ -22,5 +22,4 @@ subtitle = "Formal Courses"
  # CSS class.
  css_class = ""
 +++
-- I am the course director for Biostatistics I in the Epidemiology Program. 
-- I also teach Introductory Biostatistics in the Biomedicine Masters and Undergraduate programs at KI.
+- I teach introductory Biostatistics at the Masters and Doctoral level. More information coming soon.

@@ -36,8 +36,8 @@ hero_media = "covid.png"
 +++
 # Get in touch
 
-[erin.gabriel-at-ki-dot-se](mailto:erin.gabriel@ki.se)
+[erin.gabriel-at-sund-dot-ku-dot-dk](mailto:erin.gabriel@sund.ku.dk)
 
-Nobels väg 12A, Karolinska Institutet, Solna, Sweden
+Section of Biostatistics, Øster Farimagsgade 5, 1353 København, Denmark
 
 ### The image to the right is an AI-generated interpretation of SARS-CoV-2.

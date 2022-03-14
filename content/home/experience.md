@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Affiliations"
-subtitle = "Ongoing Collaborations"
+#subtitle = "Ongoing Collaborations"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,14 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Affiliate Investigator"
-  company = "Fred Hutchinson Cancer Research Center"
-  company_url = ""
-  location = "Seattle, WA, USA"
-  date_start = "2013-08-01"
-  date_end = ""
-  description = ""
 
 [[experience]]
   title = "Affiliate Researcher"

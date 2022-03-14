@@ -65,3 +65,6 @@ subtitle = "Preprints"
  # CSS class.
  css_class = ""
 +++
+
+
+[Link to list of all publications](./publications)
